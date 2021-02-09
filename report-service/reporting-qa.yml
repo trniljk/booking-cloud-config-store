@@ -1,0 +1,10 @@
+report:
+  export:
+    type: pdf
+  border: 2
+  page:
+    color: white
+    size: A4
+  font:
+    size: 14
+duration: all

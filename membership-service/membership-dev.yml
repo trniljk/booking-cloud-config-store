@@ -1,0 +1,11 @@
+member:
+  booking:
+    min:
+    max: 30
+  reward:
+    pionts: 100
+    offers: 10% discount next bill
+room:
+  default:
+    type: Deluxe Double
+duration: all
